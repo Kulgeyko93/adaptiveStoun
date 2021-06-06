@@ -1,0 +1,9 @@
+export const post_actions = {
+  SET_POST_TITLE: "SET_POST_TITLE",
+};
+
+export const page_actions = {
+  SET_CURRENT_PAGE: "SET_CURRENT_PAGE",
+  SET_PAGE_INCREMENT: "SET_PAGE_INCREMENT",
+  SET_PAGE_DECREMENT: "SET_PAGE_DECREMENT"
+};
